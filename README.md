@@ -19,3 +19,5 @@ FilterDispatcher把请求得处理交个ActionProxy
     请求参数封装对比：struts2.x使用ModelDriven模式，这样我们 直接 封装model对象，无需要继承任何struts2的基类，避免了侵入性。
     标签的优势：标签库几乎可以完全替代JSTL的标签库，并且 struts2.x支持强大的ognl表达式。
     当然，struts2和struts1相比，在 文件上传，数据校验 等方面也 方便了好多。在这就不详谈了
+
+## GC
