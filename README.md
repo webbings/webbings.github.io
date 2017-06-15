@@ -21,3 +21,5 @@ FilterDispatcher把请求得处理交个ActionProxy
     当然，struts2和struts1相比，在 文件上传，数据校验 等方面也 方便了好多。在这就不详谈了
 
 ## GC
+
+## 链表
